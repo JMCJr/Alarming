@@ -1,0 +1,13 @@
+/*Style that alarm*/
+@import url('https://fonts.googleapis.com/css?family=Coming+Soon');
+
+body {
+	font-family: 'Coming Soon', cursive;
+	font-size: 30px;
+	/*isplay: flex;*/
+	background-image:url(mexican-pattern_bubble.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: black;
+
+}
